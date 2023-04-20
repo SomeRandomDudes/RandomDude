@@ -1,0 +1,2 @@
+local player = game:GetService("Players").LocalPlayer
+player.Character.Humanoid.WalkSpeed = 69
